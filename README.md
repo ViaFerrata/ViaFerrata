@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Via Ferrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=viaferrata?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Tools I enjoy
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=cc241d)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=cc241d)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=cc241d)
+![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=cc241d)
