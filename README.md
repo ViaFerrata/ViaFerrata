@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Via Ferrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=viaferrata?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Via Ferrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=viaferrata&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools I enjoy
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=cc241d)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=cc241d)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=cc241d)
-![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=cc241d)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=debian&logoColor=white&color=A81D33)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=#E25A1C&logoColor=white&color=019733)
