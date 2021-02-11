@@ -27,4 +27,5 @@ When I'm not trying to understand why my model does not work, I try to understan
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=apache-spark&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=7F5AB6)
